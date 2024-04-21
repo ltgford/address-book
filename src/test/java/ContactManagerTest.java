@@ -14,7 +14,7 @@ public class ContactManagerTest {
             new Contact("Jane", "Smith", "janesmith@example.com", "0423423427"),
             new Contact("Alice", "Graystone", "aliceg@gmail.com", "0423423428"),
             new Contact("Shane", "Graystone", "shaneg@gmail.com", "0423423429")
-    };
+    }
 
     @BeforeEach
     public void setUp() {
